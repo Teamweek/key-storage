@@ -1,0 +1,25 @@
+{
+  "name": "storage",
+  "version": "1.0.0",
+  "description": "Local storage wrapper with cookies fallback",
+  "main": "storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Teamweek/storage"
+  },
+  "keywords": [
+    "localstorage",
+    "cookies"
+  ],
+  "author": "Teamweek",
+  "bugs": {
+    "url": "https://github.com/Teamweek/storage/issues"
+  },
+  "homepage": "https://github.com/Teamweek/storage",
+  "dependencies": {
+    "component-cookie": "^1.1.1"
+  }
+}
