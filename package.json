@@ -1,22 +1,23 @@
 {
   "name": "key-storage",
   "version": "1.0.0",
-  "description": "Local storage wrapper with cookies fallback",
+  "description": "Require style local storage wrapper with cookies fallback",
   "main": "storage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Teamweek/storage"
+    "url": "https://github.com/Teamweek/key-storage"
   },
   "keywords": [
     "localstorage",
-    "cookies"
+    "cookies",
+    "storage"
   ],
   "author": "Teamweek",
   "bugs": {
-    "url": "https://github.com/Teamweek/storage/issues"
+    "url": "https://github.com/Teamweek/key-storage/issues"
   },
   "homepage": "https://github.com/Teamweek/key-storage",
   "dependencies": {
