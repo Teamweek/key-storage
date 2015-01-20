@@ -1,5 +1,5 @@
 {
-  "name": "storage",
+  "name": "key-storage",
   "version": "1.0.0",
   "description": "Local storage wrapper with cookies fallback",
   "main": "storage.js",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Teamweek/storage/issues"
   },
-  "homepage": "https://github.com/Teamweek/storage",
+  "homepage": "https://github.com/Teamweek/key-storage",
   "dependencies": {
     "component-cookie": "^1.1.1"
   }
